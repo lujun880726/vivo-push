@@ -1,0 +1,20 @@
+{
+    "name": "jun924670/vivo-push",
+    "description": "php vivo push",
+    "type": "library",
+    "require": {
+        "php": ">=5.6"
+    },
+    "authors": [
+        {
+            "name": "jun.lu",
+            "email": "924670@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "VivoPush\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
